@@ -1,7 +1,7 @@
-# ## Landing-page-1.1
+# Landing-page-1.1
 
 A better version of my Profile Landing page.
 
-# ## Languages
+# Languages
 - HTML
 - CSS
