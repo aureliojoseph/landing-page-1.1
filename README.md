@@ -1,2 +1,6 @@
 # landing-page-1.1
-My landing page, version 1.1.
+A better version of my Profile Landing page.
+
+# languages
+- HTML
+- CSS
